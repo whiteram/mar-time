@@ -1,4 +1,4 @@
-# MAR-MNIST 
+# MAR-TIME
 ![example](results/7_3_1.png)
 
 ## Description 
